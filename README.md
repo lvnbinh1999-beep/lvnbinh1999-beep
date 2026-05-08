@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Đây là chỗ sau này Bình chèn ảnh động Citlali hoặc Banner vào nè -->
-<img src="https://path-to-your-animation.gif" alt="Citlali Banner" width="100%">
+<img src="https://github.com/lvnbinh1999-beep/lvnbinh1999-beep/blob/main/ezgif.com-video-to-gif-converter.gif" alt="Citlali Banner" width="100%">
 
 # ❄️ ─── **HELLO, I'M BÌNH** ─── ❄️
 *Third-year IT Student | Deep Learning Enthusiast | PC Optimizer*
