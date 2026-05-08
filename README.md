@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lvnbinh1999-beep/lvnbinh1999-beep/main/ezgif.com-video-to-gif-converter.gif" alt="Citlali Banner" width="100%">
+  <img src="https://github.com/lvnbinh1999-beep/lvnbinh1999-beep/blob/main/ezgif.com-video-to-gif-converter.gif?raw=true" alt="Citlali Banner" width="100%">
 </p>
 
 # ❄️ ─── **HELLO, I'M BÌNH** ─── ❄️
