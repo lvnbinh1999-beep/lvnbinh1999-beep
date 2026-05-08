@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Đây là chỗ sau này Bình chèn ảnh động Citlali hoặc Banner vào nè -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/lvnbinh1999-beep/lvnbinh1999-beep/main/ezgif.com-video-to-gif-converter.gif" alt="Citlali Banner" width="100%">
 </p>
