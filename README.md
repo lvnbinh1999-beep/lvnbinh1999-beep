@@ -21,8 +21,6 @@
 
 *   🔭 **Working on:** Manga Cleaner Project (Inpainting & Text Detection).
 *   🧠 **Learning:** Deep Learning (YOLO, RNNs, LSTMs).
-*   🎮 **Hobby:** Exploring Teyvat & Natlan (Citlali Main).
-*   ⚙️ **System:** Obsessed with undervolting and maximizing hardware performance.
 
 ---
 
