@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- Đây là chỗ sau này Bình chèn ảnh động Citlali hoặc Banner vào nè -->
-<img src="https://github.com/lvnbinh1999-beep/lvnbinh1999-beep/blob/main/ezgif.com-video-to-gif-converter.gif" alt="Citlali Banner" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lvnbinh1999-beep/lvnbinh1999-beep/main/ezgif.com-video-to-gif-converter.gif" alt="Citlali Banner" width="100%">
+</p>
 
 # ❄️ ─── **HELLO, I'M BÌNH** ─── ❄️
-*Third-year IT Student | Deep Learning Enthusiast | PC Optimizer*
+*Third-year IT Student | Deep Learning Enthusiast | PC Optimizer | SIMP CITLALI*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
