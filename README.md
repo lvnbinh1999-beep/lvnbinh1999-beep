@@ -4,9 +4,8 @@
   <img src="https://github.com/lvnbinh1999-beep/lvnbinh1999-beep/blob/main/ezgif.com-video-to-gif-converter.gif?raw=true" alt="Citlali Banner" width="50%">
 </p>
 
-# ❄️ ─── **HELLO, I'M BÌNH** ─── ❄️
+# **JUST BINH**
 *Third-year IT Student | Deep Learning Enthusiast | PC Optimizer | LOVE STUDY |SIMP CITLALI*
-"Always stand up after falling"
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
