@@ -2,6 +2,7 @@
 
 # **JUST BINH**
 *Third-year IT Student | Deep Learning Enthusiast | PC Optimizer | LOVE STUDY |SIMP CITLALI*
+*You are never alone in this! Love yourself, and luck will come to you! <3*
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
