@@ -1,6 +1,6 @@
 <div align="center">
 
-# **JUST BINH**  
+# **HELLO, I'M BÌNH, NICE TO MEET YOU ;)**  
 *Third-year IT Student | Love IT and Art!*  
 *You are never alone in this! Love yourself, and luck will come to you! <3*
 
