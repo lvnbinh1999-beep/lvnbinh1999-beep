@@ -1,8 +1,8 @@
 <div align="center">
 
 # **HELLO, I'M BÌNH, NICE TO MEET YOU ;)**  
-*Third-year IT Student | Love IT and Art!*  
-*You are never alone in this! Love yourself, and luck will come to you! <3*
+*Third-year IT Student | Still learning every day!*  
+*You're never alone in this. Love yourself, and good things will come your way! ❤️*
 
 <p align="center">
   <!-- AI & ML -->
